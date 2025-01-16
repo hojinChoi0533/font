@@ -1,0 +1,21 @@
+.google {
+  background-color: black;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.gray {
+  background-color: grey;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-weight: bold;
+}

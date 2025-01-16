@@ -1,0 +1,16 @@
+.coupon {
+  padding: 5px 5px 5px 5px;
+  background-color: white;
+  font-weight: bold;
+  border: 1px solid #efefef;
+  border-radius: 4px;
+  color: black;
+}
+.price {
+  padding: 5px 5px 5px 5px;
+  background-color: white;
+  font-weight: bold;
+  border: 1px solid #efefef;
+  border-radius: 4px;
+  color: white;
+}
